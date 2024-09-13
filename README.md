@@ -6,7 +6,7 @@ I'am a JavaScript developer，I'd like to make some contributions for js open so
 #### Contact me
 
 - https://github.com/taosin
-- taoxin167@gmail.com
+- iamtaoxin@gmail.com
 - https://iamtaoxin.com/
 
 
