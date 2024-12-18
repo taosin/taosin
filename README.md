@@ -7,7 +7,7 @@ I'am a JavaScript developer，I'd like to make some contributions for js open so
 
 - https://github.com/taosin
 - iamtaoxin@gmail.com
-- https://iamtaoxin.com/
+- https://blog.iamtaoxin.com/
 
 
 ![taosin's github stats](https://github-readme-stats.vercel.app/api?username=taosin&show_icons=true&theme=radical)
