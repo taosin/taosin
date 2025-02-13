@@ -5,13 +5,13 @@
 ## About Me
 I am a passionate developer with interests in various aspects of software development. I love to learn new technologies and improve my skills continuously.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technologies or Skills]
-- 👯 I’m looking to collaborate on [Projects or Open Source]
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Full Stack developer
+- 👯 I’m looking to collaborate on [memo-sutdio](https://github.com/taosin/memo-studio)
 - 🤔 I’m looking for help with [Specific Challenges]
 - 💬 Ask me about [Topics or Expertise]
-- 📫 How to reach me: [Your Email or Social Media]
-- 😄 Pronouns: [Your Pronouns]
+- 📫 How to reach me: taoxin167@gmail.com
+- 😄 Pronouns: XIN
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## GitHub Stats
