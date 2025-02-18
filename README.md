@@ -24,3 +24,6 @@ I am a passionate developer with interests in various aspects of software develo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=purple)](https://www.instagram.com/yourprofile)
+
+## Contributions
+![https://github.com/taosin/taosin/blob/master/github-contribution-grid-snake.svg](https://github.com/taosin/taosin/blob/master/github-contribution-grid-snake.svg)
