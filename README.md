@@ -2,28 +2,37 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taosin&color=blue)
 
-## About Me
-I am a passionate developer with interests in various aspects of software development. I love to learn new technologies and improve my skills continuously.
 
-- 🔭 I’m currently working on 
+<table width="100%">
+<tr>
+<td valign="top"  width="46%">
+  
 - 🌱 I’m currently learning Full Stack developer
 - 👯 I’m looking to collaborate on [memo-sutdio](https://github.com/taosin/memo-studio)
 - 🤔 I’m looking for help with [Specific Challenges]
 - 💬 Ask me about [Topics or Expertise]
 - 📫 How to reach me: taoxin167@gmail.com
 - 😄 Pronouns: XIN
-- ⚡ Fun fact: [Something Interesting About You]
 
-## GitHub Stats
-![Taosin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=taosin&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taosin&layout=compact&theme=radical)
+**「Stay hungry，Stay foolish.」** ❤️
+</td>
+<td valign="center"  width="54%">
+  <img src="https://github-readme-stats.vercel.app/api?username=taosin&show_icons=true&theme=onedark&&count_private=true" width="100%"/>
+</td>
+</tr>
+</table>
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=purple)](https://www.instagram.com/yourprofile)
+<table width="100%">
+<tr>
+<td valign="top"  width="70%">
 
-## Contributions
-![https://github.com/taosin/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg](https://github.com/taosin/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+  ![https://github.com/taosin/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg](https://github.com/taosin/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
+</td>
+<td width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taosin&layout=compact&theme=onedark"/>
+</td>
+</tr>
+</table>
+
+
