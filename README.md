@@ -37,13 +37,35 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
       <img src="https://github-profile-trophy.vercel.app/?username=taosin&theme=onedark" />
     </td>
   </tr>
   <tr>
+    <td colspan="2">Skills</td>
+  </tr>
+  <tr>
     <td>
-      <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,php,vscode,sublime,webstorm,aliyun,chrome&theme=light" />
+      Front End
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,javascript,typescript,react,vue,angular,css,jquery,npm,svelte&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Back End
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,nodejs,php,mysql,sqlite,nginx,mongodb&theme=light" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Tools
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,sublime,webstorm,apple,aws,notion,eclipse,git,gitlab,github,notion,postman&theme=light" />
     </td>
   </tr>
 </table>
