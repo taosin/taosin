@@ -41,6 +41,11 @@
       <img src="https://github-profile-trophy.vercel.app/?username=taosin&theme=onedark" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,php,vscode,sublime,webstorm,aliyun,chrome&theme=light" />
+    </td>
+  </tr>
 </table>
 
 
