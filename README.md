@@ -1,4 +1,4 @@
-# Hi there, I'm Taosin 👋
+# Hi there, I'm XIN 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=taosin&color=blue)
 
