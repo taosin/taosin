@@ -38,7 +38,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=taosin&theme=onedark" />
+      <!-- <img src="https://github-profile-trophy.vercel.app/?username=taosin&theme=onedark" /> -->
     </td>
   </tr>
   <tr>
