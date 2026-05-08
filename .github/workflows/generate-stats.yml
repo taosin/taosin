@@ -26,17 +26,19 @@ jobs:
         run: |
           mkdir -p assets
 
-          echo "Downloading github-stats.svg..."
           curl -s -o assets/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&theme=onedark&hide_border=true"
 
-          echo "Downloading top-langs.svg..."
           curl -s -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs?username=${USERNAME}&layout=donut&theme=onedark&hide_border=true"
 
-          echo "Downloading streak-stats.svg..."
           curl -s -o assets/streak-stats.svg "https://streak-stats.demolab.com/?user=${USERNAME}&theme=dark&hide_border=true"
 
-          echo "Done! Files in assets:"
-          ls -la assets/
+          echo "File sizes:"
+          wc -c assets/*
+
+          echo "First line of each file:"
+          head -1 assets/github-stats.svg
+          head -1 assets/top-langs.svg
+          head -1 assets/streak-stats.svg
 
       - name: Commit and push changes
         run: |
