@@ -1,0 +1,37 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    # 每天 UTC 时间 0:00 运行(北京时间 8:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # 允许手动触发
+    inputs:
+      username:
+        description: 'GitHub username'
+        required: true
+        default: 'taosin'
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats images
+        env:
+          GITHUB_USERNAME: ${{ github.event.inputs.username || 'taosin' }}
+        run: |
+          mkdir -p assets
+          node scripts/generate-stats.js
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/
+          git diff --staged --quiet || git commit -m "chore: update github stats images [skip ci]"
+          git push
