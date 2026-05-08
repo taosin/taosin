@@ -18,7 +18,8 @@
 **「Stay hungry，Stay foolish.」** ❤️
 </td>
 <td valign="center"  width="54%">
-  <img src="https://github-readme-stats.vercel.app/api?username=taosin&show_icons=true&theme=onedark&&count_private=true" width="100%"/>
+  <img src="./assets/github-stats.svg" width="100%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=taosin&show_icons=true&theme=onedark&&count_private=true" width="100%"/> -->
 </td>
 </tr>
 </table>
