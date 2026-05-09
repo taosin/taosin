@@ -30,9 +30,6 @@
 
   ![https://github.com/taosin/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg](https://github.com/taosin/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
 </td>
-<td width="30%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taosin&layout=compact&theme=onedark"/>
-</td>
 </tr>
 </table>
 
