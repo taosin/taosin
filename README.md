@@ -86,7 +86,8 @@ Ask me about:
 ## 📫 Contact
 
 - Email: taoxin167@gmail.com
-- GitHub: https://github.com/YOUR_GITHUB_NAME
+- GitHub: https://github.com/taosin
+- Blog: https://log.iamtaoxin.com
 
 ---
 
