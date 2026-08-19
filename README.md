@@ -1,6 +1,6 @@
 # Hi there, I'm XIN 👋
 
-Frontend Owner @ Alibaba International · AI Full-Stack Engineer · Product Builder
+Frontend Engineer → AI Full-stack Engineer
 
 Building products for:
 
@@ -29,7 +29,7 @@ Interested in:
 
 ## Products
 
-### 💰 钱迹
+### 💰 钱衡
 
 Personal Wealth OS
 
